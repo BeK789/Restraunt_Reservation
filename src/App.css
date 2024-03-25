@@ -163,7 +163,7 @@ nav svg {
   min-height: 80vh;
   justify-content: space-between;
   align-items: center;
-  background-image: url("restaarant.jpg");
+  background-image: url(restaarant.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: right;
